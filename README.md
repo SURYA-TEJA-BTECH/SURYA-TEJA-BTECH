@@ -9,7 +9,7 @@
 
 - 👀 Currently looking for full-time positions as a **Entry-Level Software Engineer**, **Junior Java Developer**, **Spring Boot Intern**. available to start immediately.
 
-- 🌱 I’m currently learning **Angular Framework**
+- 🌱 I’m currently learning  **Linux**
 
 - 💬 Ask me about **Java, Spring Framework, Spring Boot**
 
